@@ -7,3 +7,12 @@ C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\Bu
 C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\BusinessRules\obj\Debug\Model.csprojResolveAssemblyReference.cache
 C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\BusinessRules\bin\Debug\DAO.dll
 C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\BusinessRules\bin\Debug\DAO.pdb
+C:\Users\Isac\Documents\DesenvolvimentoVendas\BusinessRules\bin\Debug\Model.dll
+C:\Users\Isac\Documents\DesenvolvimentoVendas\BusinessRules\bin\Debug\Model.pdb
+C:\Users\Isac\Documents\DesenvolvimentoVendas\BusinessRules\bin\Debug\DAO.dll
+C:\Users\Isac\Documents\DesenvolvimentoVendas\BusinessRules\bin\Debug\DTO.dll
+C:\Users\Isac\Documents\DesenvolvimentoVendas\BusinessRules\bin\Debug\DAO.pdb
+C:\Users\Isac\Documents\DesenvolvimentoVendas\BusinessRules\bin\Debug\DTO.pdb
+C:\Users\Isac\Documents\DesenvolvimentoVendas\BusinessRules\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Isac\Documents\DesenvolvimentoVendas\BusinessRules\obj\Debug\Model.dll
+C:\Users\Isac\Documents\DesenvolvimentoVendas\BusinessRules\obj\Debug\Model.pdb
