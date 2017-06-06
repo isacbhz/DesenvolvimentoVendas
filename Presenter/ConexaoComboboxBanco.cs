@@ -8,5 +8,6 @@ namespace Presenter
 {
     public class ConexaoComboboxBanco
     {
+        public int MyProperty { get; set; }
     }
 }
