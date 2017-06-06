@@ -1,0 +1,9 @@
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\BusinessRules\bin\Debug\BusinessRules.dll
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\BusinessRules\bin\Debug\BusinessRules.pdb
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\BusinessRules\obj\Debug\BusinessRules.csprojResolveAssemblyReference.cache
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\BusinessRules\obj\Debug\BusinessRules.dll
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\BusinessRules\obj\Debug\BusinessRules.pdb
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\BusinessRules\bin\Debug\DataAccess.dll
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\BusinessRules\bin\Debug\DTO.dll
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\BusinessRules\bin\Debug\DataAccess.pdb
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\BusinessRules\bin\Debug\DTO.pdb

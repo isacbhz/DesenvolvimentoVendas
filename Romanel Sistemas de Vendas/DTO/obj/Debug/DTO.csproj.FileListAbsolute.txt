@@ -1,0 +1,4 @@
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DTO\bin\Debug\DTO.dll
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DTO\bin\Debug\DTO.pdb
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DTO\obj\Debug\DTO.dll
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,5 @@
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DataAccess\bin\Debug\DAO.dll.config
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DataAccess\bin\Debug\DAO.dll
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DataAccess\bin\Debug\DAO.pdb
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DataAccess\obj\Debug\DAO.dll
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DataAccess\obj\Debug\DAO.pdb

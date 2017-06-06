@@ -1,0 +1,4 @@
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\Presenter\bin\Debug\Presenter.dll
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\Presenter\bin\Debug\Presenter.pdb
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\Presenter\obj\Debug\Presenter.dll
+C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\Presenter\obj\Debug\Presenter.pdb
