@@ -1,0 +1,14 @@
+packages/
+UX_Romanel/
+.vs/
+.sln
+.class
+.pdb
+.exe
+.manifest
+.config
+bin/
+obj/
+Properties/
+.suo
+X_Web_Rommanel
