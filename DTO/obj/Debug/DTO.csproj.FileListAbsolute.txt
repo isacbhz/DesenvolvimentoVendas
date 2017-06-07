@@ -2,3 +2,8 @@ C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DT
 C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DTO\bin\Debug\DTO.pdb
 C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DTO\obj\Debug\DTO.dll
 C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DTO\obj\Debug\DTO.pdb
+C:\Users\Isac\Documents\DesenvolvimentoVendas\DTO\bin\Debug\DTO.dll
+C:\Users\Isac\Documents\DesenvolvimentoVendas\DTO\bin\Debug\DTO.pdb
+C:\Users\Isac\Documents\DesenvolvimentoVendas\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Isac\Documents\DesenvolvimentoVendas\DTO\obj\Debug\DTO.dll
+C:\Users\Isac\Documents\DesenvolvimentoVendas\DTO\obj\Debug\DTO.pdb

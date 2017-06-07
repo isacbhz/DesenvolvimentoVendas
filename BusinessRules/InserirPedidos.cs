@@ -16,6 +16,7 @@ namespace Model
             {
                 //LIMPAR PARAMETROS
                 accessSqlServer.LimparParametros();
+
                 //ADICIONAR PARAMETROS
                 accessSqlServer.AdiconarParamentros("@IDOperacao", pedido.Operacao.IDOperacao);
                 accessSqlServer.AdiconarParamentros("@IDSituacao", pedido.SituacaoPedido.IDSituacao);

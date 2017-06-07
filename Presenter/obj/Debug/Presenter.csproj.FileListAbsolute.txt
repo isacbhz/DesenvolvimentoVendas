@@ -2,3 +2,8 @@ C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\Pr
 C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\Presenter\bin\Debug\Presenter.pdb
 C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\Presenter\obj\Debug\Presenter.dll
 C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\Presenter\obj\Debug\Presenter.pdb
+C:\Users\Isac\Documents\DesenvolvimentoVendas\Presenter\bin\Debug\Presenter.dll
+C:\Users\Isac\Documents\DesenvolvimentoVendas\Presenter\bin\Debug\Presenter.pdb
+C:\Users\Isac\Documents\DesenvolvimentoVendas\Presenter\obj\Debug\Presenter.csprojResolveAssemblyReference.cache
+C:\Users\Isac\Documents\DesenvolvimentoVendas\Presenter\obj\Debug\Presenter.dll
+C:\Users\Isac\Documents\DesenvolvimentoVendas\Presenter\obj\Debug\Presenter.pdb

@@ -3,3 +3,9 @@ C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\Da
 C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DataAccess\bin\Debug\DAO.pdb
 C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DataAccess\obj\Debug\DAO.dll
 C:\Users\Isac\Documents\RomanelVendasDesenvolvimento-Versao02\RomanelVersao02\DataAccess\obj\Debug\DAO.pdb
+C:\Users\Isac\Documents\DesenvolvimentoVendas\DataAccess\bin\Debug\DAO.dll.config
+C:\Users\Isac\Documents\DesenvolvimentoVendas\DataAccess\bin\Debug\DAO.dll
+C:\Users\Isac\Documents\DesenvolvimentoVendas\DataAccess\bin\Debug\DAO.pdb
+C:\Users\Isac\Documents\DesenvolvimentoVendas\DataAccess\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Isac\Documents\DesenvolvimentoVendas\DataAccess\obj\Debug\DAO.dll
+C:\Users\Isac\Documents\DesenvolvimentoVendas\DataAccess\obj\Debug\DAO.pdb

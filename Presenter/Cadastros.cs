@@ -1,6 +1,4 @@
-﻿using System.Windows;
-using System.Windows.Forms;
-namespace Presenter
+﻿namespace Presenter
 {
     public class Cadastros
     {
