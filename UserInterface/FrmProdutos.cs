@@ -3,6 +3,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using DTO;
 using Model;
+using Presenter;
 
 
 namespace View
@@ -12,31 +13,37 @@ namespace View
         public FrmProdutos(AcaoTelaProdutos acaoTelaProdutos)
         {
             InitializeComponent();
+
             if (acaoTelaProdutos == AcaoTelaProdutos.Familia)
             {
-                String titForm = "Cadastro Produto - Famíla";
-                AjustarCampos(titForm);
-                DesligarGroupBox();
+                this.Text = "Cadastro Produto - Famíla";
+                ControleFormularios presenterCadastros = new ControleFormularios();
+                presenterCadastros.esconderControlesForm(btnLimpa, lblDesc, txtDesc, grbPreco);               
 
             }
             else if (acaoTelaProdutos == AcaoTelaProdutos.Formato)
             {
-                String titForm = "Cadastro Produto - Formato";
-                AjustarCampos(titForm);
+               this.Text = "Cadastro Produto - Formato";
+               ControleFormularios presenterCadastros = new ControleFormularios();
+               presenterCadastros.esconderControlesForm(btnLimpa, lblDesc, txtDesc, grbPreco);
             }
             else if (acaoTelaProdutos == AcaoTelaProdutos.Grupo)
             {
-                String titForm = "Cadastro Produto - Grupo";
-                AjustarCampos(titForm);
+                this.Text = "Cadastro Produto - Grupo";
+                ControleFormularios presenterCadastros = new ControleFormularios();
+                presenterCadastros.esconderControlesForm(btnLimpa, lblDesc, txtDesc, grbPreco); 
             }
             else if (acaoTelaProdutos == AcaoTelaProdutos.Tipo)
             {
-                String titForm = "Cadastro Produto - Tipo";
-                AjustarCampos(titForm);
+                this.Text = "Cadastro Produto - Tipo";
+                ControleFormularios presenterCadastros = new ControleFormularios();
+                presenterCadastros.esconderControlesForm(btnLimpa, lblDesc, txtDesc, grbPreco);
             }
             else if (acaoTelaProdutos == AcaoTelaProdutos.Produto)
             {
-                LigarCamposForm();
+                //LigarCamposForm();
+                ControleFormularios presenterCadastros = new ControleFormularios();
+                presenterCadastros.mostrarTodosControlesForm(this);
                 this.Text = "Cadastro Produto - Produto";
             }
             else
@@ -49,18 +56,7 @@ namespace View
         {
 
         }
-        private void AjustarCampos(String formText)
-        {
-            this.Text = formText;
-            this.btnLimpa.Text = "Limpar";
-            this.lblDesc.Visible = true;
-            this.lblDesc.Text = "Descrição";
-            this.lblDesc.Location = new Point(12, 18);
-            this.txtDesc.Visible = true;
-            this.txtDesc.Location = new Point(12, 38);
-
-            this.txtDesc.Size = new Size(320, 140);
-        }
+       
         private void LigarCamposForm()
         {
             //labels
@@ -89,8 +85,6 @@ namespace View
 
         private void btnCadastro_Click(object sender, EventArgs e)
         {
-
-
 
             if (this.Text == "Cadastro Produto - Famíla")
             {

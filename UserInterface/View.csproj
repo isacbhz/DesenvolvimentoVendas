@@ -149,6 +149,10 @@
       <Project>{17b7dacd-8015-4b17-b65e-93305b2cb2f3}</Project>
       <Name>DTO</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Presenter\Presenter.csproj">
+      <Project>{3d977405-5be0-445e-85e9-67d894b9ed0b}</Project>
+      <Name>Presenter</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

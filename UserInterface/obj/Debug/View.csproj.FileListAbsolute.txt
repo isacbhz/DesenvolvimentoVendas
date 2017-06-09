@@ -43,3 +43,5 @@ C:\Users\Isac\Documents\DesenvolvimentoVendas\UserInterface\obj\Debug\View.FrmPr
 C:\Users\Isac\Documents\DesenvolvimentoVendas\UserInterface\obj\Debug\View.FrmProdSecundario.resources
 C:\Users\Isac\Documents\DesenvolvimentoVendas\UserInterface\obj\Debug\View.Properties.Resources.resources
 C:\Users\Isac\Documents\DesenvolvimentoVendas\UserInterface\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Isac\Documents\DesenvolvimentoVendas\UserInterface\bin\Debug\Presenter.dll
+C:\Users\Isac\Documents\DesenvolvimentoVendas\UserInterface\bin\Debug\Presenter.pdb
